@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ff079aa-c406-437a-8228-1bf54e256068" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
@@ -30,23 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customers.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/customers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <marker date="1510661328000" expanded="true" signature="251:344" ph="SELECT * FRO... customer" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ovning5.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ovning5.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state relative-caret-position="0">
+              <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
               <folding>
                 <marker date="1510757363000" expanded="true" signature="247:269" ph="SELECT * FRO... customer" />
                 <marker date="1510757363000" expanded="true" signature="700:723" ph="SELECT * FRO... companies" />
@@ -56,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ovning6.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ovning6.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ovning6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="0">
+              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
                 <marker date="1510757499000" expanded="true" signature="278:409" ph="SELECT * FRO... customer" />
               </folding>
@@ -72,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/ovning4.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <marker date="1510752003000" expanded="true" signature="303:380" ph="SELECT stree... customer_address" />
                 <marker date="1510752003000" expanded="true" signature="303:382" ph="SELECT stree... customer_address" />
@@ -82,28 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ovning2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ovning2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              <folding>
-                <marker date="1510669273000" expanded="true" signature="270:370" ph="SELECT * FRO... customer" />
-                <marker date="1510669273000" expanded="true" signature="270:383" ph="SELECT * FRO... customer" />
-                <marker date="1510669273000" expanded="true" signature="270:385" ph="SELECT * FRO... customer" />
-                <marker date="1510669273000" expanded="true" signature="270:393" ph="SELECT * FRO... customer" />
-                <marker date="1510669273000" expanded="true" signature="270:422" ph="SELECT * FRO... customer" />
-                <marker date="1510669273000" expanded="true" signature="270:475" ph="SELECT * FRO... customer" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ovning3.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ovning3.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="0">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <marker date="1510752048000" expanded="true" signature="257:373" ph="SELECT * FRO... customer" />
                 <marker date="1510752048000" expanded="true" signature="257:381" ph="SELECT * FRO... customer" />
@@ -276,15 +247,19 @@
       <updated>1510308489395</updated>
       <workItem from="1510308490623" duration="1664000" />
       <workItem from="1510642381166" duration="2421000" />
-      <workItem from="1510656384752" duration="24986000" />
+      <workItem from="1510656384752" duration="25089000" />
+      <workItem from="1510913727360" duration="22000" />
+      <workItem from="1510927360075" duration="26000" />
+      <workItem from="1511186851298" duration="2330000" />
+      <workItem from="1511189422953" duration="1059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29071000" />
+    <option name="totallyTimeSpent" value="32611000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1640625" sideWeight="0.49003986" order="0" side_tool="false" content_ui="combo" />
@@ -317,6 +292,302 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <marker date="1510757363000" expanded="true" signature="247:269" ph="SELECT * FRO... customer" />
+            <marker date="1510757363000" expanded="true" signature="700:723" ph="SELECT * FRO... companies" />
+            <marker date="1510757363000" expanded="true" signature="906:993" ph="UPDATE custo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <marker date="1510757499000" expanded="true" signature="278:409" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <marker date="1510752048000" expanded="true" signature="257:373" ph="SELECT * FRO... customer" />
+            <marker date="1510752048000" expanded="true" signature="257:381" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1510752003000" expanded="true" signature="303:380" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:382" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:469" ph="SELECT stree... customer_address" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <marker date="1510757363000" expanded="true" signature="247:269" ph="SELECT * FRO... customer" />
+            <marker date="1510757363000" expanded="true" signature="700:723" ph="SELECT * FRO... companies" />
+            <marker date="1510757363000" expanded="true" signature="906:993" ph="UPDATE custo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <marker date="1510757499000" expanded="true" signature="278:409" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1510752003000" expanded="true" signature="303:380" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:382" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:469" ph="SELECT stree... customer_address" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <marker date="1510669273000" expanded="true" signature="270:370" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:383" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:385" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:393" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:422" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <marker date="1510752048000" expanded="true" signature="257:373" ph="SELECT * FRO... customer" />
+            <marker date="1510752048000" expanded="true" signature="257:381" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1510661328000" expanded="true" signature="251:344" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1510661328000" expanded="true" signature="251:344" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <marker date="1510757363000" expanded="true" signature="247:269" ph="SELECT * FRO... customer" />
+            <marker date="1510757363000" expanded="true" signature="700:723" ph="SELECT * FRO... companies" />
+            <marker date="1510757363000" expanded="true" signature="906:993" ph="UPDATE custo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1510752003000" expanded="true" signature="303:380" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:382" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:469" ph="SELECT stree... customer_address" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <marker date="1510669273000" expanded="true" signature="270:370" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:383" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:385" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:393" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:422" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <marker date="1510752048000" expanded="true" signature="257:373" ph="SELECT * FRO... customer" />
+            <marker date="1510752048000" expanded="true" signature="257:381" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <marker date="1510757499000" expanded="true" signature="278:409" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1510661328000" expanded="true" signature="251:344" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+          <folding>
+            <marker date="1510757363000" expanded="true" signature="247:269" ph="SELECT * FRO... customer" />
+            <marker date="1510757363000" expanded="true" signature="700:723" ph="SELECT * FRO... companies" />
+            <marker date="1510757363000" expanded="true" signature="906:993" ph="UPDATE custo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1510752003000" expanded="true" signature="303:380" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:382" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:469" ph="SELECT stree... customer_address" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <marker date="1510669273000" expanded="true" signature="270:370" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:383" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:385" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:393" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:422" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <marker date="1510752048000" expanded="true" signature="257:373" ph="SELECT * FRO... customer" />
+            <marker date="1510752048000" expanded="true" signature="257:381" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <marker date="1510757499000" expanded="true" signature="278:409" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -369,22 +640,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ovning4.php">
+    <entry file="file://$PROJECT_DIR$/customers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <marker date="1510752003000" expanded="true" signature="303:380" ph="SELECT stree... customer_address" />
-            <marker date="1510752003000" expanded="true" signature="303:382" ph="SELECT stree... customer_address" />
-            <marker date="1510752003000" expanded="true" signature="303:469" ph="SELECT stree... customer_address" />
+            <marker date="1510661328000" expanded="true" signature="251:344" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <marker date="1510669273000" expanded="true" signature="270:370" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:383" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:385" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:393" ph="SELECT * FRO... customer" />
+            <marker date="1510669273000" expanded="true" signature="270:422" ph="SELECT * FRO... customer" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ovning3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <marker date="1510752048000" expanded="true" signature="257:373" ph="SELECT * FRO... customer" />
+            <marker date="1510752048000" expanded="true" signature="257:381" ph="SELECT * FRO... customer" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ovning5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="51" lean-forward="true" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
           <folding>
             <marker date="1510757363000" expanded="true" signature="247:269" ph="SELECT * FRO... customer" />
             <marker date="1510757363000" expanded="true" signature="700:723" ph="SELECT * FRO... companies" />
@@ -393,38 +687,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customers.php">
+    <entry file="file://$PROJECT_DIR$/ovning6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
-            <marker date="1510661328000" expanded="true" signature="251:344" ph="SELECT * FRO... customer" />
+            <marker date="1510757499000" expanded="true" signature="278:409" ph="SELECT * FRO... customer" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ovning3.php">
+    <entry file="file://$PROJECT_DIR$/ovning4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <marker date="1510752048000" expanded="true" signature="257:373" ph="SELECT * FRO... customer" />
-            <marker date="1510752048000" expanded="true" signature="257:381" ph="SELECT * FRO... customer" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ovning2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <marker date="1510669273000" expanded="true" signature="270:370" ph="SELECT * FRO... customer" />
-            <marker date="1510669273000" expanded="true" signature="270:383" ph="SELECT * FRO... customer" />
-            <marker date="1510669273000" expanded="true" signature="270:385" ph="SELECT * FRO... customer" />
-            <marker date="1510669273000" expanded="true" signature="270:393" ph="SELECT * FRO... customer" />
-            <marker date="1510669273000" expanded="true" signature="270:422" ph="SELECT * FRO... customer" />
-            <marker date="1510669273000" expanded="true" signature="270:475" ph="SELECT * FRO... customer" />
+            <marker date="1510752003000" expanded="true" signature="303:380" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:382" ph="SELECT stree... customer_address" />
+            <marker date="1510752003000" expanded="true" signature="303:469" ph="SELECT stree... customer_address" />
           </folding>
         </state>
       </provider>
@@ -437,16 +717,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ovning6.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <marker date="1510757499000" expanded="true" signature="278:409" ph="SELECT * FRO... customer" />
-          </folding>
         </state>
       </provider>
     </entry>
